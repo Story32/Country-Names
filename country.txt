@@ -8,5 +8,6 @@ Brazil
 Canada
 Russia
 Chile
+Morocco
 China
 Spain
