@@ -6,6 +6,7 @@ Here are also planets and fruits
 Denmark 
 Mars
 France
+Watermelon
 Brazil 
 Canada
 Russia
