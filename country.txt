@@ -1,10 +1,12 @@
 Here are different country names
+Here are also planets and fruits
 
 
 
 Denmark 
 Mars
 France
+Watermelon
 Brazil 
 Canada
 Russia
@@ -15,3 +17,4 @@ China
 Spain
 
 There are also names of the planets.
+Fruits
