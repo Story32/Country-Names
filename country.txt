@@ -3,11 +3,15 @@ Here are different country names
 
 
 Denmark 
+Mars
 France
 Brazil 
 Canada
 Russia
+Saturn
 Chile
 Morocco
 China
 Spain
+
+There are also names of the planets.
