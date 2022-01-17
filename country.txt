@@ -1,4 +1,5 @@
 Here are different country names
+Here are also planets and fruits
 
 
 
@@ -15,3 +16,4 @@ China
 Spain
 
 There are also names of the planets.
+Fruits
